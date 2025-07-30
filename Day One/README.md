@@ -84,11 +84,11 @@ function getMessageDetails() public view returns (string, address, uint256)
 ## 🚀 Deployment Information
 
 ### Contract Details
-- **Contract Address**: `[Add your deployed contract address]`
+- **Contract Address**: `[0x7738cEEd3340DEe3BFc76E15A40D1f6c2419fC3f]`
 - **Network**: Base Sepolia Testnet (Chain ID: 84532)
-- **Block Explorer**: [View on BaseScan](https://sepolia.basescan.org/address/[your-contract-address])
+- **Block Explorer**: [View on BaseScan](https://sepolia.basescan.org/address/[0x7738cEEd3340DEe3BFc76E15A40D1f6c2419fC3f])
 - **Deployment Gas**: ~200,000 gas
-- **Verification Status**: [Verified ✅ / Pending ⏳]
+- **Verification Status**: [Verified ✅]
 
 ### Network Configuration
 ```javascript
