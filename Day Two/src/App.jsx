@@ -21,7 +21,7 @@ const CONTRACT_ABI = [
 ];
 
 // Replace with your deployed contract address
-const CONTRACT_ADDRESS = "0x..."; // Update
+const CONTRACT_ADDRESS = "0xFD3E49E4a4926aFAf28E19bf608C8B47E9980E74"; // Update
 
 export default function MessageBoard() {
   const [provider, setProvider] = useState(null);
