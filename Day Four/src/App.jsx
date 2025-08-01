@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { ethers } from 'ethers';
 import { MessageCircle, User, Clock, Hash, Send, RefreshCw, Shield, AlertCircle } from 'lucide-react';
 
-const CONTRACT_ADDRESS = "YOUR_CONTRACT_ADDRESS_HERE";
+const CONTRACT_ADDRESS = "0xd8b934580fcE35a11B58C6D73aDeE468a2833fa8";
 const CONTRACT_ABI = [
   "function message() view returns (string)",
   "function messageCount() view returns (uint256)",
