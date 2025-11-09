@@ -237,7 +237,7 @@ export default function MessageBoard() {
                   <Shield size={12} /> Owner
                 </span>}
                 {bannedStatus && <span className="inline-flex items-center gap-1 text-xs bg-red-100 text-red-800 px-2 py-1 rounded-full mt-1">
-                  <Ban size={12} /> Banned
+                  <Ban size={12} /> Banned / Removed
                 </span>}
               </div>
             )}
