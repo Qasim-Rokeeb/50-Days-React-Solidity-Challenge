@@ -18,7 +18,7 @@ import {
   Zap
 } from 'lucide-react';
 
-const CONTRACT_ADDRESS = "0xd8b934580fcE35a11B58C6D73aDeE468a2833fa8";
+const CONTRACT_ADDRESS = "0xd8b934580fcE35a11B58C6D73aDeE468a2833fa8---";
 const CONTRACT_ABI = [
   "function message() view returns (string)",
   "function messageCount() view returns (uint256)",
